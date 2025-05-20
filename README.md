@@ -19,3 +19,6 @@ Project\
  
 To run the code pass "crack" as an argument to the function in the main code.
 
+# Sequential Fitering
+But to train a classifier it would be easy to just have single output. Hence the sequential filtering
+One more code file "test.py" takes the images from the dataset and applies these filters one upon one and gives a singular output. That singular output gives segmented image used for classification
