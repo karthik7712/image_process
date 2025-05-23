@@ -23,4 +23,4 @@ To run the code pass "crack" as an argument to the function in the main code.
 But to train a classifier it would be easy to just have single output. Hence the sequential filtering
 One more code file "test.py" takes the images from the dataset and applies these filters one upon one and gives a singular output. That singular output gives segmented image used for classification
 
-So to use the classification code in {gitlink} for a dataset we need the images, smoothed_images, segmented_images folders inside the datset_name folder. Once this code generates those images copy these outputs in the classification project datasets folder
+So to use the classification code in [{gitlink}](https://github.com/karthik7712/XAI) for a dataset we need the images, smoothed_images, segmented_images folders inside the datset_name folder. Once this code generates those images copy these outputs in the classification project datasets folder
